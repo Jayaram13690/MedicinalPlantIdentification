@@ -1,6 +1,6 @@
 # IDENTIFICATION OF DIFFERENT MEDICINAL PLANTS USING MOBILENET
 
-## By Bantumalli Jayaram
+### By Bantumalli Jayaram
 
 ![Project Home Screen](Picture1.png)
 
